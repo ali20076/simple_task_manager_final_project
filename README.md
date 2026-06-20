@@ -1,2 +1,1 @@
-# simple_task_manager_final_project
-lorem ipsum
+Managing daily tasks manually can become a real obstacle to productivity and consume valuable time. Organizing, tracking, and prioritizing responsibilities often turns into a challenging task for users. The Task Manager application is designed to simplify this process by providing a convenient tool for creating, editing, deleting, and monitoring all tasks in one place. The system helps users significantly improve their efficiency, stay informed about upcoming deadlines, and keep track of the progress of each task.
